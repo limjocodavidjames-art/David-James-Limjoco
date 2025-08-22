@@ -7,10 +7,10 @@
 - Language: Python, C#
 - Frameworks and Tools: Git, Github
 - Design and UI/UX: Adobe XD
-- ## 🚀Current Projects
+## 🚀Current Projects
 - 📖Learning Git and Github
 - 💻Developing practice projects in Python
-- ## 📩Connect with Me
+## 📩Connect with Me
 - 💌Facebook: David James Limjoco
 - 📩Email: Limjocodavidjames@gmail.com
 - 📱Mobile Number: 09074068416
